@@ -240,7 +240,7 @@ nav h5:hover{
 #onespan {
     width: 4rem;
     height: 55px;
-    background: url(./bluegirl.jpg);
+    background: url(../bluegirl.jpg);
     background-size: cover;
     background-position: 0 60%;
     background-repeat: no-repeat;
@@ -249,7 +249,7 @@ nav h5:hover{
 #twospan {
     width: 6rem;
     height: 60px;
-    background: url(./shaljam.jpg);
+    background: url(../shaljam.jpg);
     background-size: 120%;
     background-position: center;
     background-repeat: no-repeat;
@@ -258,7 +258,7 @@ nav h5:hover{
 #threespan {
     width: 5rem;
     height: 55px;
-    background: url(./grass.jpg);
+    background: url(../grass.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
